@@ -1,0 +1,15 @@
+{
+  "name": "rpg-cards-generator",
+  "version": "0.0.1",
+  "description": "Generates RPG cards based on import files for the Fight Club app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Cox",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "xml-js": "^1.6.11"
+  }
+}
